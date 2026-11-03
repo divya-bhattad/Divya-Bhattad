@@ -1,23 +1,21 @@
-👋 Hi there, I'm Divya Bhattad
+Hi, I'm Divya Bhattad! 👋
 
-🔭 I’m currently working on a new exciting project
+Business Systems & QA Analyst | Aspiring Business Analyst & Project Management Professional | Technology Enthusiast
 
-🌱 I’m currently learning the QA Automation stack 
+I'm an ISTQB-certified professional with 7+ years of experience across Software Quality Assurance, Business Requirements, User Acceptance Testing (UAT), and Enterprise Applications.
 
 ⚡ Fun fact: I traded Australian sunshine ☀️ for Canadian winters ❄️—and somehow decided to build a tech career 💻 along the way!
 
-📫 How to reach me: linkedin.com/in/divya-bhattad25
-<!--
-**divya-bhattad/Divya-Bhattad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy working at the intersection of business and technology — understanding business challenges, translating requirements into actionable solutions, and ensuring technology delivers meaningful business value.
 
-Here are some ideas to get you started:
+🚀 What I'm Exploring & Building
+🔍 Software Testing: Manual Testing, Functional Testing, UAT, and Quality Assurance.
+📊 Business Analysis: Requirements Gathering, Process Mapping, Stakeholder Collaboration, and Documentation.
+📋 Project Management: Agile, Scrum, Project Coordination, and Delivery Management.
+💻 Technology: Python, SQL, API Testing, Selenium, and Playwright.
+🤖 Emerging Technologies: Generative AI, AI Agents, and AI-assisted QA.
+🌱 My Learning Philosophy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in learning by doing. This GitHub profile is where I document my learning journey, experiment with new technologies, and build practical projects that connect business needs with technology.
+My goal: To turn ideas into solutions, challenges into opportunities, and technology into business value.
+Let's connect, collaborate, and build something meaningful! You can reach me @ linkedin.com/in/divya-bhattad25

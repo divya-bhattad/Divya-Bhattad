@@ -1,28 +1,13 @@
 Hi, I'm Divya Bhattad! 👋
 
-Business Systems & QA Analyst | Aspiring Business Analyst & Project Management Professional | Technology Enthusiast
+💼 Business Systems & QA Analyst | Business Analysis | Project Management
 
 ⚡Fun fact: I traded Australian sunshine☀️ for Canadian winters❄️ and somehow decided to build a tech career💻 along the way!
 
-I'm an ISTQB-certified professional with 7+ years of experience across Software Quality Assurance, Business Requirements, User Acceptance Testing (UAT), and Enterprise Applications.
-I enjoy working at the intersection of business and technology — understanding business challenges, translating requirements into actionable solutions, and ensuring technology delivers meaningful business value.
+With 7+ years of experience in QA, business requirements, UAT, and enterprise applications, I enjoy connecting business needs with technology to build meaningful solutions.
 
-🚀 What I'm Exploring & Building
+🚀 Currently Exploring: Business Analysis | Project Management | Python | SQL | AI & Test Automation
 
-🔍 Software Testing: Manual Testing, Functional Testing, UAT, and Quality Assurance.
+🌱 My Motto: Learn. Build. Innovate. Make an Impact.
 
-📊 Business Analysis: Requirements Gathering, Process Mapping, Stakeholder Collaboration, and Documentation.
-
-📋 Project Management: Agile, Scrum, Project Coordination, and Delivery Management.
-
-💻 Technology: Python, SQL, API Testing, Selenium, and Playwright.
-
-🤖 Emerging Technologies: Generative AI, AI Agents, and AI-assisted QA.
-
-🌱 My Learning Philosophy
-
-I believe in learning by doing. This GitHub profile is where I document my learning journey, experiment with new technologies, and build practical projects that connect business needs with technology.
-
-My goal: To turn ideas into solutions, challenges into opportunities, and technology into business value.
-
-Let's connect, collaborate, and build something meaningful! You can reach me @ linkedin.com/in/divya-bhattad25
+🔗 Let's connect on LinkedIn

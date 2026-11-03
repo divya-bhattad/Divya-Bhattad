@@ -1,5 +1,12 @@
-## Hi there 👋
+👋 Hi there, I'm Divya Bhattad
 
+🔭 I’m currently working on a new exciting project
+
+🌱 I’m currently learning the QA Automation stack 
+
+⚡ Fun fact: I traded Australian sunshine ☀️ for Canadian winters ❄️—and somehow decided to build a tech career 💻 along the way!
+
+📫 How to reach me: linkedin.com/in/divya-bhattad25
 <!--
 **divya-bhattad/Divya-Bhattad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

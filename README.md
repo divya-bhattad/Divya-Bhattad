@@ -10,4 +10,4 @@ With 7+ years of experience in QA, business requirements, UAT, and enterprise ap
 
 🌱 My Motto: Learn. Build. Innovate. Make an Impact.
 
-🔗 Let's connect on LinkedIn
+[🔗 Let's connect on LinkedIn](linkedin.com/in/divya-bhattad25)

@@ -1,13 +1,39 @@
-Hi, I'm Divya Bhattad! 👋
+Hey, I'm Divya — QA Engineer
 
-💼 Business Systems & QA Analyst | Business Analysis | Project Management
+⚡ " Think like a user. Test like a skeptic. Deliver with confidence."
+________________________________________
 
-⚡Fun fact: I traded Australian sunshine☀️ for Canadian winters❄️ and somehow decided to build a tech career💻 along the way!
+________________________________________
+✨ About me
+________________________________________
+•	🚀 Business Systems & QA Analyst passionate about connecting business needs with technology to deliver meaningful solutions.
 
-With 7+ years of experience in QA, business requirements, UAT, and enterprise applications, I enjoy connecting business needs with technology to build meaningful solutions.
+•	🔍 QA enthusiast who enjoys uncovering gaps, challenging assumptions, and building confidence in software quality.
 
-🚀 Currently Exploring: Business Analysis | Project Management | Python | SQL | AI & Test Automation
+•	💼 7+ years of experience across Software Testing, Business Requirements, UAT, and Enterprise Applications.
 
-🌱 My Motto: Learn. Build. Innovate. Make an Impact.
+•	🌱 Always learning — currently exploring Business Analysis, Project Management, Python, SQL, AI, and Test Automation.
 
-[🔗 Let's connect on LinkedIn](linkedin.com/in/divya-bhattad25)
+•	💬 Ask me about Quality Assurance, UAT, business requirements, enterprise applications, or my journey from Australian sunshine ☀️ to Canadian winters ❄️!
+________________________________________
+🛠 Tech stack
+________________________________________
+📊 Skill levels
+Skill	Level
+	
+	
+	
+	
+________________________________________
+📌 Featured projects
+Project	Description	Tech
+ 		
+		
+		
+________________________________________
+📊 GitHub stats
+________________________________________
+📬 Let's connect
+________________________________________
+🟣 Open to collabs • 🟢 Based in Canada • 🟠 she/her
+

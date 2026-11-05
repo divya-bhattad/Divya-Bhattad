@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="./assets/coder.gif" alt="Coding Avatar" width="160" style="border-radius: 50%;">
+</p>
 
-Hey, I'm Divya — QA Engineer
+<p align="center"> Hey, I'm Divya — QA Engineer </p>
 
 ⚡ " Think like a user. Test like a skeptic. Deliver with confidence."
 ________________________________________
-<p align="center">
+
+<p align="center">		  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-grid-snake.svg">
@@ -12,7 +16,8 @@ ________________________________________
 </p>
 
 ________________________________________
-✨ About me
+<p align="center"> ✨ About me </p>
+
 ________________________________________
 •	🚀 Business Systems & QA Analyst passionate about connecting business needs with technology to deliver meaningful solutions.
 
@@ -24,7 +29,8 @@ ________________________________________
 
 •	💬 Ask me about Quality Assurance, UAT, business requirements, enterprise applications, or my journey from Australian sunshine ☀️ to Canadian winters ❄️!
 ________________________________________
-🛠 Tech stack
+<p align="center"> 🛠 Tech stack </p>
+
 ________________________________________
 📊 Skill levels
 Skill	Level
@@ -33,7 +39,8 @@ Skill	Level
 	
 	
 ________________________________________
-📌 Featured projects
+<p align="center"> 📌 Featured projects </p>
+
 Project	Description	Tech
  		
 		

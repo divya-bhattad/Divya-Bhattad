@@ -2,7 +2,7 @@
   <img src="./assets/coder.gif" alt="Coding Avatar" width="160" style="border-radius: 50%;">
 </p>
 
-<p align="center"> Hey, I'm Divya — QA Engineer </p>
+<p align="center"> Hey, I'm Divya — Business Systems Analyst </p>
 
 <p align="center">⚡ " Think like a user. Test like a skeptic. Deliver with confidence." </p>
 

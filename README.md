@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/coder.gif" alt="Coding Avatar" width="160" style="border-radius: 50%;">
+  <img src="Automation-Gif.gif" alt="Coding Avatar" width="160" style="border-radius: 50%;">
 </p>
 
 <p align="center"> Hey, I'm Divya — Business Systems Analyst </p>

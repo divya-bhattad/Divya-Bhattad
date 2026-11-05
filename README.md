@@ -4,7 +4,8 @@
 
 <p align="center"> Hey, I'm Divya — QA Engineer </p>
 
-⚡ " Think like a user. Test like a skeptic. Deliver with confidence."
+<p align="center">⚡ " Think like a user. Test like a skeptic. Deliver with confidence." </p>
+
 ________________________________________
 
 <p align="center">		  

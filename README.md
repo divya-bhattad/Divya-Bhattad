@@ -1,7 +1,15 @@
+
 Hey, I'm Divya — QA Engineer
 
 ⚡ " Think like a user. Test like a skeptic. Deliver with confidence."
 ________________________________________
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution animation" src="https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ________________________________________
 ✨ About me

@@ -2,7 +2,7 @@
   <img src="Automation-Gif.gif" alt="Coding Avatar" width="160" style="border-radius: 50%;">
 </p>
 
-<p align="center"> Hey, I'm Divya — Business Systems Analyst </p>
+# <p align="center"> Hey, I'm Divya — Business Systems Analyst </p>
 
 <p align="center">⚡ " Think like a user. Test like a skeptic. Deliver with confidence." </p>
 
@@ -17,9 +17,8 @@ ________________________________________
 </p>
 
 ________________________________________
-<p align="center"> ✨ About me </p>
+# <p align="center"> ✨ About me </p>
 
-________________________________________
 •	🚀 Business Systems & QA Analyst passionate about connecting business needs with technology to deliver meaningful solutions.
 
 •	🔍 QA enthusiast who enjoys uncovering gaps, challenging assumptions, and building confidence in software quality.
@@ -30,26 +29,25 @@ ________________________________________
 
 •	💬 Ask me about Quality Assurance, UAT, business requirements, enterprise applications, or my journey from Australian sunshine ☀️ to Canadian winters ❄️!
 ________________________________________
-<p align="center"> 🛠 Tech stack </p>
+# <p align="center"> 🛠 Tech stack </p>
 
-________________________________________
-📊 Skill levels
+# <p align="center"> 📊 Skill levels </p>
 Skill	Level
 	
 	
 	
 	
 ________________________________________
-<p align="center"> 📌 Featured projects </p>
+# <p align="center"> 📌 Featured projects </p>
 
 Project	Description	Tech
  		
 		
 		
 ________________________________________
-📊 GitHub stats
-________________________________________
-📬 Let's connect
-________________________________________
+# 📊 GitHub stats
+
+# 📬 Let's connect
+
 🟣 Open to collabs • 🟢 Based in Canada • 🟠 she/her
 
